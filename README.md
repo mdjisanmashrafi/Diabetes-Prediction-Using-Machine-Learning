@@ -1,1 +1,1 @@
-# Diabetes-Prediction-Using-Machine-Learning
+The objective of this project is to develop a machine learning model to predict whether an individual has diabetes based on various health-related attributes. The dataset used contains 520 instances with 16 features, including age, gender, and various symptoms related to diabetes. The goal is to preprocess the data, apply feature engineering techniques, and train multiple machine learning models to determine which performs best in predicting diabetes.
